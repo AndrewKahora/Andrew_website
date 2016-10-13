@@ -1,0 +1,13 @@
+.row{
+    max-width: 100%;
+}
+.bckgndimage{
+
+}
+.header{
+  background: url(../images/bp_background1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
