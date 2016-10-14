@@ -1,3 +1,14 @@
+body, html, main {
+    height: 100%;
+}
+.cd-fixed-bg{
+    min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
 .fullWidth{
     width: 100%;
     max-width: inherit;
@@ -10,11 +21,7 @@ h1{
 p{
     text-align: center;
     font-size: 25px;
-}
-body{
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+
 }
 #about{
     background-color: aqua;
