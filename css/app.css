@@ -9,6 +9,10 @@ body, html, main {
 	background-position: center center;
 }
 
+.cd-fixed-bg.cd-bg-1 {
+  background-image: url("../images/backg2.jpg");
+}
+
 .fullWidth{
     width: 100%;
     max-width: inherit;
