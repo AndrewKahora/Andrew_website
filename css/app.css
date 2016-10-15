@@ -1,5 +1,6 @@
-body, main {
+body {
     height: 100%;
+
 }
 html * {
   -webkit-font-smoothing: antialiased;
@@ -38,7 +39,7 @@ div.transbox p {
     color: #ffffff;
     font-size: 30px;
     text-align: center;
-    width: 100vw;
+    width: 100%;
 }
 
 #sticky-phantom {
@@ -46,7 +47,7 @@ div.transbox p {
     color: #ffffff;
     font-size: 30px;
     text-align: center;
-    width: 100vw;
+    width: 100%;
     visibility: hidden;
 }
 
@@ -54,6 +55,8 @@ div.transbox p {
     position: fixed;
     top: 0;
     width: 100%;
+    font-size: 30px;
+    text-align: center;
 }
 
 .fullWidth{
