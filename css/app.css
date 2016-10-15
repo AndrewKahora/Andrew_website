@@ -104,6 +104,37 @@ li a{
     color:#fff;
     font-size: 90%;
 }
+#myProgress {
+    position: relative;
+    width: 20%;
+    height: 25px;
+    background-color: grey;
+}
+#myBarjava {
+    position: absolute;
+    width: 85%;
+    height: 100%;
+    background-color: green;
+}
+#myBarhtml {
+    position: absolute;
+    width: 75%;
+    height: 100%;
+    background-color: green;
+}
+#myBarjs {
+    position: absolute;
+    width: 55%;
+    height: 100%;
+    background-color: green;
+}
+#myBarpython {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    background-color: green;
+}
+
 .hovereffect {
   width: 100%;
   height: 100%;
