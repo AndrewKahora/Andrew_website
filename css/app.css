@@ -1,5 +1,6 @@
 body {
     height: 100%;
+    font-family: 'Raleway', sans-serif;
 
 }
 html * {
@@ -85,7 +86,12 @@ p{
 #about{
     background-color: aqua;
 }
-h3{
+.abouth3{
+    font-size: 23px;
+    font-family: 'Raleway', sans-serif;
+}
+.aboutp{
+    text-align: center;
 
 }
 ul{
