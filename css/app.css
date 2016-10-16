@@ -252,11 +252,13 @@ li a{
 	height: 100px;
 }
 #form label{
-	width: 100%;
+/*	width: 100%;*/
 }
 #submit{
    width: 100%;
 }
 
-
+#name{
+   width: 100%;
+}
 
