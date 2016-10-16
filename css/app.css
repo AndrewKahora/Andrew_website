@@ -25,6 +25,10 @@ html * {
   background-image: url("../images/backg2.jpg");
   min-height: 100%;
 }
+.cd-fixed-bg cd-bg-3{
+    background-image: url(../images/footerimg.jpg);
+    min-height: 100%;
+}
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
@@ -238,9 +242,11 @@ li a{
   -webkit-transition-delay: 0.3s;
   transition-delay: 0.3s;
 }
-#Contact{
+#ontactall{
     color: #a2adb7;
-
+}
+.contacth2{
+    color: black;
 }
 #form input, #form textarea{
 	background: #000;
@@ -269,3 +275,9 @@ li a{
     font-size: 16px;
 }
 
+#mwisho{
+      background-color: black;
+      text-align: center;
+      font-size: 24px;
+
+}
